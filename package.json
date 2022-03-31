@@ -1,0 +1,27 @@
+{
+  "name": "pruebas01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseBaldovino1014/Pruebas01.git"
+  },
+  "keywords": [],
+  "author": "José Baldovino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseBaldovino1014/Pruebas01/issues"
+  },
+  "homepage": "https://github.com/JoseBaldovino1014/Pruebas01#readme"
+}
